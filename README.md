@@ -4,12 +4,14 @@ Anna's submission for machine learning preassignment for BAX 452.
 
 
 ### Instructions:
-`conda env create mlpreassessment`: creates environment with dependencies
-`pip install nbval`: nbval was not successfully installed into conda environment
+`conda env create mlpreassessment`: creates environment with dependencies 
+
+`pip install nbval`: nbval was not successfully installed into conda environment 
+
 `make all`: runs nbval on my assignment
 
 
-###Output from Terminal:
+### Output from Terminal:
 ```
 =========================== test session starts ============================
 platform darwin -- Python 3.6.1, pytest-3.0.7, py-1.4.33, pluggy-0.4.0
